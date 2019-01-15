@@ -45,4 +45,4 @@ infringment.
 
 ---BLOCKY---
 
-Solution: ![ScreenShot](photos/problem)
+Solution: ![ScreenShot](photos/problem.png)
