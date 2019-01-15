@@ -9,6 +9,6 @@ infringment.
 
 ---------- LINUX ---------- 
 
-![ScreenShot](files.png)
+![ScreenShot](photos/files.png)
 
 PROBLEMS
