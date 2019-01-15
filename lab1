@@ -6,7 +6,7 @@ admissable defense it seems a little unfair to file a multi million dollar lawsu
 form this article is to be careful with what programs you fork or try to update becuase it may be considered copyright 
 infringment.  
 PROBLEMS
-one ![GitHub Logo](https://github.com/geddir2/OSSLab1/blob/master/photos/%201.png?raw=true)
+one ![GitHub Logo](geddir2/OSSLab1/photos/1.png)
 3/2 ![GitHub Logo]()
 2 ![GitHub Logo]()
 3 ![GitHub Logo]()
@@ -14,3 +14,28 @@ one ![GitHub Logo](https://github.com/geddir2/OSSLab1/blob/master/photos/%201.pn
 5 ![GitHub Logo]()
 6 ![GitHub Logo]()
 7 ![GitHub Logo]()
+
+
+
+
+
+
+
+
+while (notDone()) {
+  if (isPathForward()) {
+  } else {
+    if (isPathLeft()) {
+      turnLeft();
+      moveForward();
+    }
+  }
+  if (isPathRight()) {
+    turnRight();
+  } else {
+    if (isPathLeft()) {
+      turnLeft();
+    }
+  }
+  moveForward();
+}
