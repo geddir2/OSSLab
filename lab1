@@ -12,27 +12,3 @@ infringment.
 ![ScreenShot](OSSLab1/files.png)
 
 PROBLEMS
-
-
-
-
-
-
-
-while (notDone()) {
-  if (isPathForward()) {
-  } else {
-    if (isPathLeft()) {
-      turnLeft();files.png
-      moveForward();
-    }
-  }
-  if (isPathRight()) {
-    turnRight();
-  } else {
-    if (isPathLeft()) {
-      turnLeft();
-    }
-  }
-  moveForward();
-}
