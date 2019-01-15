@@ -9,6 +9,6 @@ infringment.
 
 ---------- LINUX ---------- 
 
-![ScreenShot](OSSLab1/files.png)
+![ScreenShot](https://imgur.com/ba8bff29-f6d4-4dae-b77d-09d4877eb94b)
 
 PROBLEMS
