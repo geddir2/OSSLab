@@ -42,3 +42,7 @@ infringment.
 2: ![ScreenShot](photos/third/two.png)
 3: ![ScreenShot](photos/third/three.png)
 4: ![ScreenShot](photos/third/four.png)
+
+---BLOCKY---
+
+Solution: ![ScreenShot](photos/problem)
