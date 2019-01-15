@@ -13,6 +13,7 @@ infringment.
 
 ---------- REGEX ----------
 
+--- 2 ---
 1: ![ScreenShot](photos/first/first.png)
 1.5: ![ScreenShot](photos/first/onePointFive.png)
 2: ![ScreenShot](photos/first/two.png)
@@ -21,3 +22,14 @@ infringment.
 5: ![ScreenShot](photos/first/five.png)
 6: ![ScreenShot](photos/first/six.png)
 7: ![ScreenShot](photos/first/seven.png)
+
+---3a---
+1: ![ScreenShot](photos/second/first.png)
+2: ![ScreenShot](photos/second/two.png)
+3: ![ScreenShot](photos/second/three.png)
+4: ![ScreenShot](photos/second/four.png)
+5: ![ScreenShot](photos/second/five.png)
+6: ![ScreenShot](photos/second/six.png)
+7: ![ScreenShot](photos/second/seven.png)
+8: ![ScreenShot](photos/second/eight.png)
+---3b---
