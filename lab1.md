@@ -13,4 +13,4 @@ infringment.
 
 ---------- REGEX ----------
 
-first:  ![ScreenShot](photos/1.png)
+![ScreenShot](OSSLab1/photos/first/first.png)
