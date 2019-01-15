@@ -50,4 +50,13 @@ but I think being vigilant should suffice.
 
 Solution: ![ScreenShot](photos/problem.png)
 
+---------- REFELCTION ----------
 
+In order to find a good opensource project that I can work on im reaching out to a bunch of friends, mostly CS, to see if they
+are currently working on any projects or know nay projects that could use help. While it mostly consits of RPI CS students 
+I'm going to reach out to friends at other schools, NYU, Penn, Nova and a couple of otherres to see if they have any projects
+that need help. While it would be cool to help with a RCOS project I think being able to helo a project at a diffrent 
+University would be really interesting too. It would for sure help a lot with learning to use git better and how to work out
+coding while not at the same location which I feel would be a really usefull skill to posess. While im not sure exactly 
+what I will work on, beign able to learn more about git and working on a bigger project would be a really fun time and 
+a great skill to have. 
