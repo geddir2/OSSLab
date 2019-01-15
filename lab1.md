@@ -13,4 +13,11 @@ infringment.
 
 ---------- REGEX ----------
 
-![ScreenShot](OSSLab1/photos/first/first.png)
+1: ![ScreenShot](photos/first/first.png)
+1.5: ![ScreenShot](photos/first/onePointFive.png)
+2: ![ScreenShot](photos/first/two.png)
+3: ![ScreenShot](photos/first/three.png)
+4: ![ScreenShot](photos/first/four.png)
+5: ![ScreenShot](photos/first/five.png)
+6: ![ScreenShot](photos/first/six.png)
+7: ![ScreenShot](photos/first/seven.png)
