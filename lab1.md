@@ -1,4 +1,5 @@
 ---------- Reading assignments ----------
+
 While reading the chapter I was shocked by how such a little change to a program can lead to a potentially life changing 
 lawsuit. It to me seems that the change Jesse made only made the program better.  As far as i know he didn't make it 
 widely avaliable, only acessable on RPI's network. To me this seems really unfair to Jesse and the two other people 
