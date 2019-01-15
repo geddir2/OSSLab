@@ -9,7 +9,7 @@ infringment.
 
 ---------- LINUX ---------- 
 
-![Screenshot](files.png)
+![Screenshot](OSSLab1/files.png)
 
 PROBLEMS
 
@@ -23,7 +23,7 @@ while (notDone()) {
   if (isPathForward()) {
   } else {
     if (isPathLeft()) {
-      turnLeft();
+      turnLeft();files.png
       moveForward();
     }
   }
