@@ -35,4 +35,10 @@ infringment.
 7: ![ScreenShot](photos/second/seven.png)
 8: ![ScreenShot](photos/second/eight.png)
 9: ![ScreenShot](photos/second/nine.png)
+
 ---3b---
+
+1: ![ScreenShot](photos/third/one.png)
+2: ![ScreenShot](photos/third/two.png)
+3: ![ScreenShot](photos/third/three.png)
+4: ![ScreenShot](photos/third/four.png)
