@@ -25,6 +25,7 @@ and help with the code in anyway they want/can.
 
 # 8 
 [link here](https://github.com/geddir2/OSSLab)
+and i added a MIT license to be laissez faire about it
 
 # 9 
 
