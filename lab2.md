@@ -24,7 +24,7 @@ and help with the code in anyway they want/can.
 # 7
 
 # 8 
-[link here] (https://github.com/geddir2/OSSLab)
+[link here](https://github.com/geddir2/OSSLab)
 
 # 9 
 
