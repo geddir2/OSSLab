@@ -22,6 +22,10 @@ I dont have any preticular type of project in mind. However i feel the best woul
 and help with the code in anyway they want/can.
 
 # 7
+the best licnese for a company would be Apache/BSD. For best for buisness and also in part the greater good is GPL. It 
+allows for the charge of money for the program. and it also allows for the use of code for the greater good but not being
+distrubiuited. Thus this both is benificial to the greater good and also developers. 
+
 
 # 8 
 [link here](https://github.com/geddir2/OSSLab)
@@ -30,7 +34,8 @@ and i added a MIT license to be laissez faire about it
 # 9 
  I would like to work on a RCOS project. It would be used by students and staff at the school, and potentially people 
  who are not involved in RPI. Due to the fact that i want to have it be potentially useable by people outside of
- RPI I would use a MIT license in order to allow for as easy use as possible for any and everyone. 
+ RPI I would use a MIT license in order to allow for as easy use as possible for any and everyone. LGPL is best for developers
+ and no need to relist modified software and is very popular with developers for this reason. 
 
 # 10
 Website | License Present | License
