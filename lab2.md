@@ -28,5 +28,15 @@ and help with the code in anyway they want/can.
 and i added a MIT license to be laissez faire about it
 
 # 9 
+ I would like to work on a RCOS project. It would be used by students and staff at the school, and potentially people 
+ who are not involved in RPI. Due to the fact that i want to have it be potentially useable by people outside of
+ RPI I would use a MIT license in order to allow for as easy use as possible for any and everyone. 
 
 # 10
+Website | License Present | License
+---------|:----------|:-------
+|http://shuttles.rpi.edu/ | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License|
+|https://github.com/robinm8/yacsandroid| Yes | GPLv2 https://en.wikipedia.org/wiki/GNU_General_Public_License|
+|https://github.com/YACS-RCOS/yacs | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License|
+|https://github.com/rchowdhury98/voiceassistant | Yes | GPLv3 https://en.wikipedia.org/wiki/GNU_General_Public_License|
+|https://github.com/chinrw/weatherbot| Yes | MIT License https://en.wikipedia.org/wiki/MIT_License|
