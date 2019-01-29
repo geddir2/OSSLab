@@ -38,3 +38,7 @@ red-army-app<br>
 -- inital commit 1/21/19<br>
 -- latest commit 1/25/19<br>
 -- 1 branch <br>
+
+
+It appears to be very accurate
+
