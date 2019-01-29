@@ -1,14 +1,22 @@
 # Part 0
+1. 
+i.  a communication app for fans
+ii.  currently there is a rcos app for the red army but hasnt been started yet
+iii. mostly just app development programs 
+iv.  I would like the app to be a mix of reddit, gorup me, and a stat app. It would have the reddit function of having 
+a discussion board and bple to have disussions with the other fans. The group me part would have the ability to message your
+friends about the upcoming game and about otehr things. The stat part would have the temas stats, standings, and scheudle. 
+On top of this I would think the app would have alerts for games. Also real time scores, and posisbly other features as well.
+Finally while I think RPI would be a good start it could be a blanket app and be applicable to otehr teams in the future. 
 
-i. 
-ii.
-iii.
-iv.
+2.  
+![alt text](photos/new2.png)
 
 
 # Part 1
 
 Open circuits <br>
+![alt text](photos/new.png)
 -- 8 contribuators <br>
 -- 16,161 linesof code <br>
 -- first commit 3/22/17 <br>
@@ -17,6 +25,7 @@ Open circuits <br>
 
 
 organizers <br>
+https://www.youtube.com/watch?v=RNQ1Mi7HG5M&feature=youtu.be
 -- 4 contribuators <br>
 -- 42,759 liens of code <br>
 -- first commit 9/11/18 <br>
@@ -34,6 +43,7 @@ https://www.youtube.com/watch?v=AL1VwdgS-ck&feature=youtu.be <br>
 
 
 pipeline <br>
+https://www.youtube.com/watch?v=_rcXZxHJkRo&feature=youtu.be
 -- 7 contribuators<br>
 -- 14,965 lines of code <br>
 -- first commit 9/2/16<br>
@@ -52,6 +62,6 @@ https://www.youtube.com/watch?v=nFkt7IjXUms&feature=youtu.be.<br>
 
 It appears to be very accurate
 
-![alt text](photos/new.png)
+
 
 
