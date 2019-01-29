@@ -25,6 +25,7 @@ organizers <br>
 
 
 phone controllers <br>
+https://www.youtube.com/watch?v=AL1VwdgS-ck&feature=youtu.be <br>
 -- 3 contribuators <br>
 -- 74 lines of code <br>
 -- first commit 1/22/19 <br>
@@ -51,6 +52,6 @@ https://www.youtube.com/watch?v=nFkt7IjXUms&feature=youtu.be.<br>
 
 It appears to be very accurate
 
-
+![alt text](photos/new.png)
 
 
