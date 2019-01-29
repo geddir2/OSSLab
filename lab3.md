@@ -9,7 +9,7 @@ Open circuits
 
 
 organizers
--- 2 contribuators
+-- 4 contribuators
 -- 42,759 liens of code
 -- first commit 9/11/18
 -- latest commit 1/18/19
