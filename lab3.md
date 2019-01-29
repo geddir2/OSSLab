@@ -12,6 +12,8 @@ Finally while I think RPI would be a good start it could be a blanket app and be
 2.  
 ![alt text](photos/new2.png)
 
+3.
+![alt text](photos/new3.png)
 
 # Part 1
 
