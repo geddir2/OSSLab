@@ -1,3 +1,11 @@
+# Part 0
+
+i. 
+ii.
+iii.
+iv.
+
+
 # Part 1
 
 Open circuits <br>
@@ -33,6 +41,7 @@ pipeline <br>
 
 
 red-army-app<br>
+https://www.youtube.com/watch?v=nFkt7IjXUms&feature=youtu.be.<br>
 -- 1 contribuator<br>
 -- 23 lines of code<br>
 -- inital commit 1/21/19<br>
@@ -41,4 +50,7 @@ red-army-app<br>
 
 
 It appears to be very accurate
+
+
+
 
