@@ -20,7 +20,7 @@ to switch the liscnese was the ability to monitize their creation. The original 
 monitization of the code. With the switch they were allowed to monititze the code and was benifical to them. 
 
 ## 6  Example Project. Pick a license as a group using license chooser on github.
-
+a twitter bot that tweets memes based on the day of the year or day of the week. We chose an MIT Liscense
 
 ## 7 Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better, for a developer, for a company and for the common good
 The Apache/BSD is best fit for companies. The GPL license makes any code derivied from a GPL code be realsed with a GPL 
