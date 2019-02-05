@@ -36,3 +36,6 @@ Website | License Present | License
 ---------|:----------|:-------
 |http://shuttles.rpi.edu/ | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License|
 |https://github.com/YACS-RCOS/yacs | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License|
+|https://github.com/apexal/late | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License|
+|https://github.com/huimingcheng/autograding | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License|
+|https://github.com/automaticdoorcontrol/automaticdoorcontrol | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License|
