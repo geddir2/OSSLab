@@ -25,11 +25,12 @@ Without using all the resources you can to better your software itll lead to the
 
 ## 8 
 I chose to create the repository  [here](https://github.com/geddir2/OSSLab).
-
 I gave it  an MIT license to allow whoever to reference the work. 
 
 ## 9 
-
+I'm planning on working on a project from RCOS. I think not only would it be really cool to work on somthing for the RPI 
+community. Also if I dont understand somthing or need to ask somthing having people areound me who even if they arent wokring 
+on the project have a possibility to be knowledgeable on the subject matter if it pertains to something on the RPI cmapus.  
 
 ## 10 
 Website | License Present | License
