@@ -15,12 +15,18 @@ who want to help better the software. Also on top of this there is such a rapid 
 Without using all the resources you can to better your software itll lead to the downfall of your technology. 
 
 ## 5 
-
+Linux's copyleft switch to a GPL liscense allowed for it to be intergrated with GNU. The most important reason for them 
+to switch the liscnese was the ability to monitize their creation. The original liscense they used prohibited the
+monitization of the code. With the switch they were allowed to monititze the code and was benifical to them. 
 
 ## 6 
 
 
 ## 7 
+The Apache/BSD is best fit for companies. The GPL license makes any code derivied from a GPL code be realsed with a GPL 
+liscense. This liscense allows for monitization. This could deter a business from altering a code base for profit as they
+will have to make their source code public. Making it best for the developer. Using the LGPL do not have to relist their
+modified software under the LGPL license, in fact it deosnt even need to be relisted. LGPL benefits developers.
 
 
 ## 8 
