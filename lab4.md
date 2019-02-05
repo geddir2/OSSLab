@@ -24,9 +24,15 @@ Without using all the resources you can to better your software itll lead to the
 
 
 ## 8 
+I chose to create the repository  [here](https://github.com/geddir2/OSSLab).
 
+I gave it  an MIT license to allow whoever to reference the work. 
 
 ## 9 
 
 
 ## 10 
+Website | License Present | License
+---------|:----------|:-------
+|http://shuttles.rpi.edu/ | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License|
+|https://github.com/YACS-RCOS/yacs | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License|
