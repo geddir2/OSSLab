@@ -1,7 +1,8 @@
 ## step1
 project(Tutorial)
 
-add_executable(Tutorial tutorial.cxx)
+add_executable(Tutorial tutorial.cxx)  
+![alt text](photos/step1.png)
 
 ## step2
 cmake_minimum_required(VERSION 3.3)  
@@ -29,7 +30,7 @@ add_executable(Tutorial tutorial.cxx)
 target_include_directories(Tutorial PUBLIC  
                            "${PROJECT_BINARY_DIR}"  
                            )  
-
+![alt text](photos/step2.png)
 ## step3
 cmake_minimum_required(VERSION 3.3)  
 project(Tutorial)  
@@ -69,7 +70,7 @@ target_include_directories(Tutorial PUBLIC
                            "${PROJECT_BINARY_DIR}"  
                            ${EXTRA_INCLUDES}  
                            )  
-
+![alt text](photos/step3.png)
 ## step4  
 cmake_minimum_required(VERSION 3.3)  
 project(Tutorial)  
@@ -107,7 +108,7 @@ target_link_libraries(Tutorial PUBLIC ${EXTRA_LIBS})
 target_include_directories(Tutorial PUBLIC  
                            "${PROJECT_BINARY_DIR}"  
                            )  
-
+![alt text](photos/step4.png)
 
 ## step5
 cmake_minimum_required(VERSION 3.3)  
@@ -180,3 +181,4 @@ do_test(Tutorial 7 "7 is 2.645")
 do_test(Tutorial 25 "25 is 5")  
 do_test(Tutorial -25 "-25 is [-nan|nan|0]")  
 do_test(Tutorial 0.0001 "0.0001 is 0.01")  
+![alt text](photos/step5.png)
