@@ -6,4 +6,3 @@
 
 ## 6
 https://rcos.io/projects/tlouison/storyhop/profile
-https://github.com/tlouison/storyhop
