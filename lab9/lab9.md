@@ -1,9 +1,13 @@
 ## 0
-
+![alt text](zero.png)
 ## 1
-
+![alt text](one.one.png)
+![alt text](one.two.png)
 ## 2
-
+![alt text](two.one.png)
+![alt text](two.two.png)
+![alt text](two.three.png)
+![alt text](two.four.png)
 ## 3
-
+![alt text](three.png)
 ## 4
