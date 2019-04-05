@@ -1,4 +1,4 @@
----------- Reading assignments ----------
+---------- Reading assignments ---------- 
 
 While reading the chapter I was shocked by how such a little change to a program can lead to a potentially life changing 
 lawsuit. It to me seems that the change Jesse made only made the program better.  As far as i know he didn't make it 
