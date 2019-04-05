@@ -1,8 +1,8 @@
 
 ## 3 
-![alt text](three.png)
+![alt text](images/three.png)
 ## 4
-![alt text](four.png)
+![alt text](images/four.png)
 
 ## 6
 https://rcos.io/projects/tlouison/storyhop/profile
