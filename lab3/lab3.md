@@ -10,15 +10,15 @@ On top of this I would think the app would have alerts for games. Also real time
 Finally while I think RPI would be a good start it could be a blanket app and be applicable to otehr teams in the future. 
 
 2.  
-![alt text](photos/new2.png)
+![alt text](images/new2.png)
 
 3.
-![alt text](photos/new3.png)
+![alt text](images/new3.png)
 
 # Part 1
 
 Open circuits <br>
-![alt text](photos/new.png)
+![alt text](images/new.png)
 -- 8 contribuators <br>
 -- 16,161 linesof code <br>
 -- first commit 3/22/17 <br>
