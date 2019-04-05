@@ -6,4 +6,4 @@ github: geddir2
 
 mattermost: geddir2
 
-Photo ![GitHub Logo](https://pbs.twimg.com/profile_images/1037796310869520392/E_EapdaS_400x400.jpg)
+Photo ![GitHub Logo](https://pbs.twimg.com/profile_images/1037796310869520392/E_EapdaS_400x400.jpg) 
