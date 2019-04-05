@@ -1,6 +1,6 @@
 ## 1
 ### sucessful build
-![alt text](one.png)
+![alt text](images/one.png)
 ## 2 
 ### Find the Nightly and Experimental sections and look at some of the submissions. How can you see what tests where run for a particular submission?
 You can find this by clicking on the three diffrent secions, "Not Run", "Fail" and "Pass", and see which ones correspond 
@@ -14,7 +14,7 @@ This allows you to know what made the submission fail and can help you pinpoint 
 build: Mac10.12-clang-dbg-x86_64. Only one failed test, 5 warings and no errors on build, and no errors on configure. 
 
 ### build fail
-![alt text](two.png)
+![alt text](images/two.png)
 
 
 ## 3
