@@ -13,43 +13,43 @@ but I think being vigilant should suffice.
 
 ---------- LINUX ---------- 
 
-![ScreenShot](photos/files.png)
+![ScreenShot](images/files.png)
 
 ---------- REGEX ----------
 
 --- 2 ---
 
-1: ![ScreenShot](photos/first/first.png)
-1.5: ![ScreenShot](photos/first/onePointFive.png)
-2: ![ScreenShot](photos/first/two.png)
-3: ![ScreenShot](photos/first/three.png)
-4: ![ScreenShot](photos/first/four.png)
-5: ![ScreenShot](photos/first/five.png)
-6: ![ScreenShot](photos/first/six.png)
-7: ![ScreenShot](photos/first/seven.png)
+1: ![ScreenShot](images/one-first.png)
+1.5: ![ScreenShot](images/one-onePointFive.png)
+2: ![ScreenShot](images/one-two.png)
+3: ![ScreenShot](images/one-three.png)
+4: ![ScreenShot](images/one-four.png)
+5: ![ScreenShot](images/one-five.png)
+6: ![ScreenShot](images/one-six.png)
+7: ![ScreenShot](images/one-seven.png)
 
 ---3a---
 
-1: ![ScreenShot](photos/second/one.png)
-2: ![ScreenShot](photos/second/two.png)
-3: ![ScreenShot](photos/second/three.png)
-4: ![ScreenShot](photos/second/four.png)
-5: ![ScreenShot](photos/second/five.png)
-6: ![ScreenShot](photos/second/six.png)
-7: ![ScreenShot](photos/second/seven.png)
-8: ![ScreenShot](photos/second/eight.png)
-9: ![ScreenShot](photos/second/nine.png)
+1: ![ScreenShot](images/two-one.png)
+2: ![ScreenShot](images/two-two.png)
+3: ![ScreenShot](images/two-three.png)
+4: ![ScreenShot](images/two-four.png)
+5: ![ScreenShot](images/two-five.png)
+6: ![ScreenShot](images/two-six.png)
+7: ![ScreenShot](images/two-seven.png)
+8: ![ScreenShot](images/two-eight.png)
+9: ![ScreenShot](images/two-nine.png)
 
 ---3b---
 
-1: ![ScreenShot](photos/third/one.png)
-2: ![ScreenShot](photos/third/two.png)
-3: ![ScreenShot](photos/third/three.png)
-4: ![ScreenShot](photos/third/four.png)
+1: ![ScreenShot](images/three-one.png)
+2: ![ScreenShot](images/threetwo.png)
+3: ![ScreenShot](images/threethree.png)
+4: ![ScreenShot](images/threefour.png)
 
 ---BLOCKY---
 
-Solution: ![ScreenShot](photos/problem.png)
+Solution: ![ScreenShot](images/problem.png)
 
 ---------- REFELCTION ----------
 
