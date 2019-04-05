@@ -1,8 +1,8 @@
 ## 1
-![alt text](lab10/images/checkpoint1.png)
+![alt text](images/checkpoint1.png)
 
 ## 2
-![alt text](checkpoint2.png)
+![alt text](images/checkpoint2.png)
 
 ## 3
 .find() returns a list of 20 definitions, and you have the option to view more
@@ -10,9 +10,9 @@
 .find({word: "Capitaland"}) finds the word Capitaland and returns the definition of the word too
 .find({_id: ObjectId("56fe9e22bad6b23cde07b8ce")}) returns the word price chopper and the definition in the dictonary
 
-![alt text](checkpoint3-1.png)
-![alt text](checkpoint3-2.png)
-![alt text](checkpoint3-3.png)
+![alt text](images/checkpoint3-1.png)
+![alt text](images/checkpoint3-2.png)
+![alt text](images/checkpoint3-3.png)
 
 
 ## 4 
@@ -50,4 +50,4 @@ if __name__ == '__main__':
 
 ```
 Output: 
-![alt text](checkpoint4.png)
+![alt text](images/checkpoint4.png)
