@@ -17,7 +17,7 @@
 
 ## 4 
 
-code:
+Code:
 ```python
 from pymongo import MongoClient
 from bson.objectid import ObjectId
@@ -49,5 +49,5 @@ if __name__ == '__main__':
     pp.pprint( insertedWord )
 
 ```
-output: 
+Output: 
 ![alt text](checkpoint4.png)
