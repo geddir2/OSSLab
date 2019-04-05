@@ -1,4 +1,4 @@
-# Part 0
+# Part 0 
 1. 
 i.  a communication app for fans
 ii.  currently there is a rcos app for the red army but hasnt been started yet
