@@ -1,11 +1,11 @@
 
 # Word Ladder
 
-![alt text](four.png)
+![alt text](images/four.png)
 
 
-![alt text](five.png)
+![alt text](images/five.png)
 
 # Unordered
 
-![alt text](uo.png)
+![alt text](images/uo.png)
